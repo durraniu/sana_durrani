@@ -14,7 +14,7 @@ social:
     header: true
   icon: facebook
   icon_pack: fab
-  label: Follow me on Twitter
+  label: Follow me on Facebook
   link: https://www.facebook.com/Gettingleadsthroughleadgeneration
 superuser: true
 title: Sana Durrani
@@ -24,6 +24,6 @@ Let's start with a Free trial to get some Customers for you. All you have to do 
 
 Visit [my page](https://www.facebook.com/Gettingleadsthroughleadgeneration) to see how happy my clients are after getting results?
 
-To get started message now.
+To get started [message](#contact) now.
 
 
