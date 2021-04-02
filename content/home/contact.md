@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 ---
 
-<form action="https://formspree.io/sana.durrani@hotmail.co.uk" method="POST">
+<form action="https://formspree.io/f/mgerevke" method="POST">
   <label for="name">Your name: </label>
   <input type="text" name="name" required="required" placeholder="here"><br>
   <label for="email">Your email: </label>
