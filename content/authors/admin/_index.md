@@ -5,7 +5,7 @@ highlight_name: false
 organizations:
 - name: Get Leads for your Business
   url: https://www.facebook.com/Gettingleadsthroughleadgeneration
-role: Media Buyer | Consultant | Digital Advertiser | Lead Generation Expert at Sana Marketing Solutions
+role: Media Buyer | Consultant | Digital Advertiser | Lead Generation Expert
 social:
 - icon: envelope
   icon_pack: fas
