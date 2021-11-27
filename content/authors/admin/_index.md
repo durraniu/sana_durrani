@@ -1,6 +1,6 @@
 ---
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-email: sana.durrani@hotmail.co.uk
+email: sanadurrani@sanaconsultant.com
 highlight_name: false
 organizations:
 - name: Get Leads for your Business
