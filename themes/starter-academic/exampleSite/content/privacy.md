@@ -54,4 +54,4 @@ header:
 <h3>Contact Us</h3>
 <p>For any questions or concerns regarding your privacy, you may contact us using the following details: </p>
 <p>Sana Durrani<br />
-sanadurrani@sanaconsultant.com </p>
+sana.durrani@hotmail.co.uk </p>
